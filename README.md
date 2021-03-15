@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tony890
+- 👀 I’m interested in Discord stuff
+- 🌱 I’m currently learning node.js and discord.js
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 You can currently contact me at tony09812233454@gmail.com
